@@ -1,0 +1,29 @@
+<website>
+  <page name="index" title="Home page">
+  <h1>Welcome to my Home page</h1>
+
+  <p>Hi, there. My name is Xi,and this is my home page, here are some of my int:</p>
+
+  <ul>
+     <li><a href="interests/sleeping.html">Sleeping</a></li>
+     <li><a href="interests/eating.html">Eating</a></li>
+  </ul>
+  </page>
+  <directory name="interests">
+       <page name="sleeping" title="Sleeping">
+      <h1>sleeping page</h1>
+      <p>...</p>
+      <note from="Dad" to="Xi">
+          Get up and go to school!
+       </note>
+    </page>
+    <page name="eating" title="Eating">
+       <h1>Eating page</h1>
+       <p>....</p>
+      <note from="Mum" to="Xi">
+          Think about your weight!
+       </note>
+    </page>
+ 
+     </directory>
+</website>
